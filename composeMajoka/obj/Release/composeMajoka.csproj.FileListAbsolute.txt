@@ -1,0 +1,7 @@
+G:\prog\VS\breakMajoka\composeMajoka\bin\Release\composeMajoka.exe.config
+G:\prog\VS\breakMajoka\composeMajoka\bin\Release\composeMajoka.exe
+G:\prog\VS\breakMajoka\composeMajoka\bin\Release\composeMajoka.pdb
+G:\prog\VS\breakMajoka\composeMajoka\obj\Release\composeMajoka.csprojAssemblyReference.cache
+G:\prog\VS\breakMajoka\composeMajoka\obj\Release\composeMajoka.csproj.CoreCompileInputs.cache
+G:\prog\VS\breakMajoka\composeMajoka\obj\Release\composeMajoka.exe
+G:\prog\VS\breakMajoka\composeMajoka\obj\Release\composeMajoka.pdb

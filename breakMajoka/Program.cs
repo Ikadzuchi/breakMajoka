@@ -15,7 +15,6 @@ namespace breakMajoka
 			string fullfilename = args[0];
 			string dir = Path.GetDirectoryName(fullfilename);
 			string filename = Path.GetFileNameWithoutExtension(fullfilename);
-			Console.WriteLine($"{fullfilename} = {dir} + {Path.DirectorySeparatorChar} + {filename}");
 			
 			FileStream fs = new FileStream(fullfilename, FileMode.Open);
 
@@ -67,7 +66,7 @@ namespace breakMajoka
 			{
 				movieFrames.Add(buf2[i+12]);
 			}
-			//Console.WriteLine($"frame012:{movieFrames[0]:X08} {movieFrames[1]:X08} {movieFrames[2]:X08}");
+
 			Console.WriteLine("movie frame indeces:");
 			for(int i = 0; i<movieFrames.Count; i++)
 			{
@@ -102,7 +101,6 @@ namespace breakMajoka
 
 				fsout.Close();
 			}
-
 		}
 
 		static int read4byte(byte[] buf, int i)

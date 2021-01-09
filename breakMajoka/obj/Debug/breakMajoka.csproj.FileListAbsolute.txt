@@ -1,0 +1,14 @@
+G:\prog\VS\breakMajoka\bin\Debug\breakMajoka.exe.config
+G:\prog\VS\breakMajoka\bin\Debug\breakMajoka.exe
+G:\prog\VS\breakMajoka\bin\Debug\breakMajoka.pdb
+G:\prog\VS\breakMajoka\obj\Debug\breakMajoka.csprojAssemblyReference.cache
+G:\prog\VS\breakMajoka\obj\Debug\breakMajoka.csproj.CoreCompileInputs.cache
+G:\prog\VS\breakMajoka\obj\Debug\breakMajoka.exe
+G:\prog\VS\breakMajoka\obj\Debug\breakMajoka.pdb
+G:\prog\VS\breakMajoka\breakMajoka\bin\Debug\breakMajoka.exe.config
+G:\prog\VS\breakMajoka\breakMajoka\bin\Debug\breakMajoka.exe
+G:\prog\VS\breakMajoka\breakMajoka\bin\Debug\breakMajoka.pdb
+G:\prog\VS\breakMajoka\breakMajoka\obj\Debug\breakMajoka.csprojAssemblyReference.cache
+G:\prog\VS\breakMajoka\breakMajoka\obj\Debug\breakMajoka.csproj.CoreCompileInputs.cache
+G:\prog\VS\breakMajoka\breakMajoka\obj\Debug\breakMajoka.exe
+G:\prog\VS\breakMajoka\breakMajoka\obj\Debug\breakMajoka.pdb

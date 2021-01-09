@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "breakMajoka", "breakMajoka.csproj", "{FE2860B8-60CE-44DD-A8F2-76682F69F426}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "breakMajoka", "breakMajoka\breakMajoka.csproj", "{FE2860B8-60CE-44DD-A8F2-76682F69F426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decodeWav", "decodeWav\decodeWav.csproj", "{2B49404E-34D7-47B7-ABDF-B81AF8877817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "composeMajoka", "composeMajoka\composeMajoka.csproj", "{6FB13ADC-2F26-41DA-9FBC-67B42E510556}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FE2860B8-60CE-44DD-A8F2-76682F69F426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE2860B8-60CE-44DD-A8F2-76682F69F426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE2860B8-60CE-44DD-A8F2-76682F69F426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B49404E-34D7-47B7-ABDF-B81AF8877817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B49404E-34D7-47B7-ABDF-B81AF8877817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B49404E-34D7-47B7-ABDF-B81AF8877817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B49404E-34D7-47B7-ABDF-B81AF8877817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB13ADC-2F26-41DA-9FBC-67B42E510556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB13ADC-2F26-41DA-9FBC-67B42E510556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB13ADC-2F26-41DA-9FBC-67B42E510556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB13ADC-2F26-41DA-9FBC-67B42E510556}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

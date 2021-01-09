@@ -1,0 +1,7 @@
+G:\prog\VS\breakMajoka\decodeWav\bin\Release\decodeWav.exe.config
+G:\prog\VS\breakMajoka\decodeWav\bin\Release\decodeWav.exe
+G:\prog\VS\breakMajoka\decodeWav\bin\Release\decodeWav.pdb
+G:\prog\VS\breakMajoka\decodeWav\obj\Release\decodeWav.csprojAssemblyReference.cache
+G:\prog\VS\breakMajoka\decodeWav\obj\Release\decodeWav.csproj.CoreCompileInputs.cache
+G:\prog\VS\breakMajoka\decodeWav\obj\Release\decodeWav.exe
+G:\prog\VS\breakMajoka\decodeWav\obj\Release\decodeWav.pdb
