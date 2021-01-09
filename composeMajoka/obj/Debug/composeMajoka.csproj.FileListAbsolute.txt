@@ -1,7 +1,0 @@
-G:\prog\VS\breakMajoka\composeMajoka\bin\Debug\composeMajoka.exe.config
-G:\prog\VS\breakMajoka\composeMajoka\bin\Debug\composeMajoka.exe
-G:\prog\VS\breakMajoka\composeMajoka\bin\Debug\composeMajoka.pdb
-G:\prog\VS\breakMajoka\composeMajoka\obj\Debug\composeMajoka.csprojAssemblyReference.cache
-G:\prog\VS\breakMajoka\composeMajoka\obj\Debug\composeMajoka.csproj.CoreCompileInputs.cache
-G:\prog\VS\breakMajoka\composeMajoka\obj\Debug\composeMajoka.exe
-G:\prog\VS\breakMajoka\composeMajoka\obj\Debug\composeMajoka.pdb
