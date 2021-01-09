@@ -98,7 +98,6 @@ namespace breakMajoka
 						break;
 					}
 				}
-
 				fsout.Close();
 			}
 		}

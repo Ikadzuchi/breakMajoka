@@ -50,4 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy $(ProjectDir)\$(OutDir)\$(TargetFileName) $(ProjectDir)\..\bin\</PostBuildEvent>
+  </PropertyGroup>
 </Project>

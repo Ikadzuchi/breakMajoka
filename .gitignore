@@ -1,4 +1,5 @@
-/bin/Debug/
+bin/
+!/bin
 /sampledata/
 /.vs/
 /.gitignore
